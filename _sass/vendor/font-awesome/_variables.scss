@@ -1,11 +1,8 @@
 // Variables
 // --------------------------
-{% assign assets_base_url = base_path %}
-{% if site.cdn.jsdelivr.enabled %}
-    {% assign assets_base_url = "https://cdn.jsdelivr.net/gh/" | append: site.repository %}
-{% endif %}
 
-$fa-font-path:                "{ assets_base_url }/assets/fonts" !default;
+
+$fa-font-path:                "https://cdn.jsdelivr.net/gh/rickylsr/blog@master/assets/fonts" !default;
 $fa-font-size-base:           16px !default;
 $fa-css-prefix:               fa !default;
 $fa-version:                  "5.5.0" !default;
