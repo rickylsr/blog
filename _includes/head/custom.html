@@ -1,7 +1,7 @@
 {% include base_path %}
 {% assign assets_base_url = base_path %}
 {% if site.cdn.jsdelivr.enabled %}
-    {% assign assets_base_url = "https://cdn.jsdelivr.net/gh/" | append: site.repository | "@master" %}
+    {% assign assets_base_url = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@master" %}
 {% endif %}
 
 <!-- start custom head snippets -->
