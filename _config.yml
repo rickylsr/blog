@@ -87,13 +87,13 @@ author:
   name             : "Ricky Lee"
   avatar           : "https://cdn.jsdelivr.net/gh/rickylsr/blog@master/images/Profile-2.png"
   bio              : "法学民工，铁道爱好者，城市天际线玩家"
-  location         : "学園都市第二学区長点電機学園"
+  location         : "学園都市第二学区"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://blog.rickylee.cn
   bitbucket        :
   codepen          :
   dribbble         :
