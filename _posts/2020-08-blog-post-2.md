@@ -1,0 +1,25 @@
+---
+title: '每日自动上报助手Telegram Bot已经上线'
+date: 2020-08-31
+permalink: /posts/2020/08/blog-post-2/
+excerpt: "仅供测试"
+tags:
+  - 好东西
+---
+
+[点击本链接进入bot](https://t.me/cuplcovidbot
+
+>免责声明
+>请一定在**位置没有发生变化**时候使用本bot，位置发生变化时，请务必关闭自动签到，手动签到两天之后再重新开启自动签到。如果担忧密码的安全，您可以自行下载源代码并在自己的服务器上搭建使用。
+
+### 源代码地址
+
+[https://github.com/rickylsr/cupl-ncov-report-tgbot](https://github.com/rickylsr/cupl-ncov-report-tgbot)
+
+### 原理
+
+服务端利用用户提供的智慧法大账号密码，通过cookie方式登陆智慧法大账号，并访问每日上报页面爬取前一天每日上报数据，替换必要数据后，在每天0:10 POST到学校的上报接口处，完成上报。
+
+### Credits
+
+代码对中国政法大学填报系统的适配由博主Ricky Lee基于北邮同学开发的[BUPT-nCov-Report](https://github.com/ipid/bupt-ncov-report)以及[BUPT-nCov-Report-TgBot](https://github.cpm/Henryzhao96/bupt-ncov-report-tgbot)完成。
