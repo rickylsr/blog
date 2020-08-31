@@ -7,6 +7,11 @@ author_profile: true
 
 欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!
 
+## 实用工具系列
+
+* [【2020-08-31】实用工具 - CUPL 每日疫情上报bot🔗](posts/2020/08/blog-post-2/) 
+
+
 ## 铁道漫谈系列
 
 本系列关注中国和日本的轨道交通流变与有趣历史。
