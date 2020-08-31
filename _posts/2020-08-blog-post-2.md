@@ -22,4 +22,4 @@ tags:
 
 ### Credits
 
-代码对中国政法大学填报系统的适配由博主Ricky Lee基于北邮同学开发的[BUPT-nCov-Report](https://github.com/ipid/bupt-ncov-report)以及[BUPT-nCov-Report-TgBot](https://github.cpm/Henryzhao96/bupt-ncov-report-tgbot)完成。
+代码对中国政法大学填报系统的适配由博主Ricky Lee（Github:[rickylsr](https://github.com/rickylsr)）完成。程序基于北邮同学开发的[BUPT-nCov-Report](https://github.com/ipid/bupt-ncov-report)（MIT协议）以及[BUPT-nCov-Report-TgBot](https://github.com/Henryzhao96/bupt-ncov-report-tgbot)（GPL-v3协议）。
