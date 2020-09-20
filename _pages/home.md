@@ -9,6 +9,8 @@ author_profile: true
 
 ## 实用工具系列
 
+* [【2020-09-19】实用工具 - 利用V2ray和闲置NAS实现校园网免流🔗](posts/2020/09/blog-post-1/)
+
 * [【2020-08-31】实用工具 - CUPL 每日疫情上报bot🔗](posts/2020/08/blog-post-2/) 
 
 
@@ -44,4 +46,4 @@ author_profile: true
 
 本博客部分内容亦会在公众号出现，墙内同学欢迎关注`i-CUPL`：
 
-![Gkh3SU.png](https://s1.ax1x.com/2020/03/28/Gkh3SU.png){:width="70%"}
+![Gkh3SU.png](https://s1.ax1x.com/2020/03/28/Gkh3SU.png){:width="60%"}
