@@ -20,4 +20,4 @@ rickylee.monster博客，基于 [Stuart Geiger](https://github.com/staeiou)在[M
 1. 在repository settings的"GitHub pages" section，你可以检查你的网站编译状态。
 1. (可选) 使用 `markdown_generator` 目录中的 Jupyter notebooks 或 python 脚本以生成markdown文件。
 
-更多资讯你还可以前往原作者的网站获取： https://academicpages.github.io/
+你还可以前往原作者的网站获取更多信息： https://academicpages.github.io/
