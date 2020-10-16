@@ -9,6 +9,8 @@ author_profile: true
 
 ## 实用工具系列
 
+* [【2020-09-22】实用工具 - 法大Openwrt配置IPv6和v2ray免流🔗](posts/2020/09/blog-post-3/)
+
 * [【2020-09-22】实用工具 - 校园网路由器配置指“北”🔗](posts/2020/09/blog-post-2/)
 
 * [【2020-09-19】实用工具 - 利用V2ray和闲置NAS实现校园网免流🔗](posts/2020/09/blog-post-1/)
