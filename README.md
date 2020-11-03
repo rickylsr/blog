@@ -1,4 +1,6 @@
-rickylee.monster博客，基于 [Stuart Geiger](https://github.com/staeiou)在[Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)（© 2016 Michael Rose，MIT License）的academicpages主题，托管于Github Pages上。
+# rickylee.monster博客
+
+基于 [Stuart Geiger](https://github.com/staeiou)在[Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)（© 2016 Michael Rose，MIT License）的academicpages主题，托管于Github Pages上。
 
 ### 👬 特点
 
