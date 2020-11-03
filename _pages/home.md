@@ -51,3 +51,17 @@ author_profile: true
 本博客部分内容亦会在公众号出现，墙内同学欢迎关注`i-CUPL`：
 
 ![Gkh3SU.png](https://s1.ax1x.com/2020/03/28/Gkh3SU.png){:width="60%"}
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+        <title>WeUI</title>
+        <!-- 引入 WeUI CDN 链接 -->
+        <link rel="stylesheet" href="https://res.wx.qq.com/open/libs/weui/2.3.0/weui.min.css"/>
+    </head>
+    <body>
+        <!-- 使用 -->
+        <a href="javascript:;" class="weui-btn weui-btn_primary">绿色按钮</a>
+    </body>
+</html>
