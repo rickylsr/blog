@@ -17,16 +17,17 @@ author_profile: true
         <p>欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!</p>
         <h2>实用工具系列</h2>
         <!-- 实用工具系列 -->
-        <!--
-        {% include base_path %}
-        {% include group-by-array collection=site.posts field="tags" %}
-        {% for tag in group_names %}
-            {% assign posts = group_items[forloop.index0] %}
-            {% for post in posts %}
-                {% include archive-single.html %}
-            {% endfor %}
+        <ul>
+        {% for post in posts %}
+              {% if post.tags contains "好东西" %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+        </li>
+              {% endif %}
         {% endfor %}
-        --> 
+        </ul>
+{% endfor %}
         <!-- 实用工具系列 --> 
         <h2>铁道漫谈系列</h2>
             <p>
