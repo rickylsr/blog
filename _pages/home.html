@@ -15,17 +15,21 @@ author_profile: true
     </head>
     <body>
         <p>欢迎!  Welcome.  ようこそ！ ¡Bienvenidos!</p>
+        
         <h2>实用工具系列</h2>
         <!-- 实用工具系列 -->
-        {% for post in posts %}
-              {% if post.tags contains "好东西" %}
-        <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-        </li>
-              {% endif %}
+        {% include base_path %}
+        {% include group-by-array collection=site.posts field="tags" %}
+        
+        {% for tag="好东西" %}
+          {% assign posts = group_items[forloop.index0] %}
+          <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+          {% for post in posts %}
+            {% include archive-single.html %}
+          {% endfor %}
         {% endfor %}
         <!-- 实用工具系列 --> 
+        
         <h2>铁道漫谈系列</h2>
             <p>
                 本系列关注中国和日本的轨道交通流变与有趣历史。
