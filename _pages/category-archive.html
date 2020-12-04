@@ -5,8 +5,12 @@ title: "Posts by Category"
 author_profile: true
 ---
 
+这里是按时间顺序排列的全部文章！
+
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
+
+这里是按时间顺序排列的全部文章！
 
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
