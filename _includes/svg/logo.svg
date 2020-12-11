@@ -1,4 +1,4 @@
-<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg width="24px" height="24px" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
  <g>
   <title>background</title>
@@ -9,8 +9,8 @@
  </g>
  <g>
   <title>Layer 1</title>
-  <rect rx="49" id="svg_4" height="394" width="394" y="3" x="3" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#646464"/>
-  <rect rx="16" id="svg_1" height="49" width="151" y="59.25" x="124.5" stroke-width="0" stroke="#000" fill="#FFFFFF"/>
-  <rect stroke="#000" rx="16" id="svg_2" height="216.99999" width="151" y="136.25" x="124.5" stroke-width="0" fill="#FFFFFF"/>
+  <rect rx="3px" id="svg_4" height="24px" width="24px" y="0" x="0" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#646464"/>
+  <rect rx="1px" id="svg_1" height="2.94px" width="9.06px" y="3.555px" x="7.47px" stroke-width="0" stroke="#000" fill="#FFFFFF"/>
+  <rect stroke="#000" rx="1px" id="svg_2" height="13.02px" width="9.06px" y="8.175px" x="7.47px" stroke-width="0" fill="#FFFFFF"/>
  </g>
 </svg>
