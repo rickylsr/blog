@@ -34,4 +34,4 @@ author_profile: true
 
 本博客部分内容亦会在公众号出现，墙内同学欢迎关注`i-CUPL`：
 
-<img src="https://s1.ax1x.com/2020/03/28/Gkh3SU.png">
+<img width=80%src="https://s1.ax1x.com/2020/03/28/Gkh3SU.png">
