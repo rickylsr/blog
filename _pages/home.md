@@ -8,8 +8,8 @@ author_profile: true
         
 ## 实用工具系列
 
-*[【2020-09-22】实用工具 - 法大Openwrt配置IPv6和v2ray免流🔗](posts/2020/09/blog-post-3/)
-*[【2020-08-31】实用工具 - CUPL 每日疫情上报bot🔗](posts/2020/08/blog-post-2/) 
+* [【2020-09-22】实用工具 - 法大Openwrt配置IPv6和v2ray免流🔗](posts/2020/09/blog-post-3/)
+* [【2020-08-31】实用工具 - CUPL 每日疫情上报bot🔗](posts/2020/08/blog-post-2/) 
         
 ## 铁道漫谈系列
         
