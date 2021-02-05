@@ -9,7 +9,7 @@ author_profile: true
 ## 实用工具系列
 
 * [法大Openwrt配置IPv6和v2ray免流🔗](posts/2020/09/blog-post-3/)
-* [校园网配置指北](posts/2020/09/blog-post-2/)
+* [校园网配置指北🔗](posts/2020/09/blog-post-2/)
 * [CUPL 每日疫情自动上报bot🔗](posts/2020/08/blog-post-2/) 
         
 ## 铁道漫谈系列
@@ -17,11 +17,11 @@ author_profile: true
 本系列关注中国和日本的轨道交通流变与有趣历史。
 
 ### 铁道漫谈-日本铁道研究
-* [下山事件：JNR首任总裁惨死案🔗](posts/2020/02/blog-post-2/) </p>
-* [日本国有铁道法（1948）（自译 中日对照）🔗](posts/2020/01/blog-post-3/)  </p>
+* [下山事件：JNR首任总裁惨死案🔗](posts/2020/02/blog-post-2/)
+* [日本国有铁道法（1948）（自译 中日对照）🔗](posts/2020/01/blog-post-3/)
 
 ### 铁道漫谈-中国铁道研究
-* [地铁安检小史（北上广深津）](posts/2020/03/blog-post-1/) 
+* [地铁安检小史（北上广深津）🔗](posts/2020/03/blog-post-1/) 
                 
 ## 时事参考系列
 * [关于新疆疫情的几个待解问题🔗](posts/2020/08/blog-post-1/) 
@@ -35,4 +35,4 @@ author_profile: true
 
 本博客部分内容亦会在公众号出现，墙内同学欢迎关注`i-CUPL`：
 
-<img src="https://s1.ax1x.com/2020/03/28/Gkh3SU.png" width="80%" height="80%" >
+<img src="https://s1.ax1x.com/2020/03/28/Gkh3SU.png" width="70%" height="70%" >
