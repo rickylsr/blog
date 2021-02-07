@@ -1,9 +1,6 @@
 # main links links
 main:
 
-  - title: "首页"
-    url: /
-
 #  - title: "Publications"
 #    url: /publications/
 
@@ -16,13 +13,12 @@ main:
 #  - title: "作品"
 #    url: /portfolio/
         
-  - title: "全部文章"
+  - title: "文章"
     url: /year-archive/
     
   - title: "关于"
     url: /about/
-       
-  - title: "返回主站"
-    url: https://rickylee.monster/
 
+#  - title: "返回主站"
+#    url: https://rickylee.monster/
 
