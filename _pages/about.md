@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about
 title: "关于本站"
 excerpt: "关于本站以及访问者的隐私"
 author_profile: true
