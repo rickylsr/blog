@@ -119,12 +119,8 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.friend1 %}
-        <li></li>
-        <li>Links</li>
+        <li><br>Links</li> 
         <li><a href="{{ author.friend1.url }}"><i  class="fas fa-fw fa-link" aria-hidden="true"></i> {{ author.friend1.name }}</a></li>
-      {% endif %}
-      {% if author.friend2 %}
-        <li><a href="{{ author.friend2.url }}"><i  class="fas fa-fw fa-link" aria-hidden="true"></i> {{ author.friend2.name }}</a></li>
       {% endif %}
     </ul>
   </div>
