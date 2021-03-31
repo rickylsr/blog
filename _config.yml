@@ -123,8 +123,8 @@ author:
     url            : "https://kvcb.me/"
     name           : "Kevincible"
   friend2:
-    url            : "https://kvcb.me/"
-    name           : "Kevincible"
+    url            : 
+    name           : 
 
 # Reading Files
 include:
