@@ -119,7 +119,12 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  friend1:
+    url            : "https://kvcb.me/"
+    name           : "Kevincible"
+  friend2:
+    url            : "https://kvcb.me/"
+    name           : "Kevincible"
 
 # Reading Files
 include:
