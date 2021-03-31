@@ -12,6 +12,9 @@ author_profile: true
 * [利用V2ray和闲置NAS，实现校园网IPV6免流🔗](posts/2020/09/blog-post-1/)
 * [校园网配置指北🔗](posts/2020/09/blog-post-2/)
 * [CUPL 每日疫情自动上报bot🔗](posts/2020/08/blog-post-2/) 
+
+### 数字出国系列
+* [ACG流媒体平台篇🔗](/posts/2021/03/blog-post-1/)
         
 ## 铁道漫谈系列
         
