@@ -8,7 +8,7 @@ author_profile: true
         
 ## 实用工具系列
 
-* [DNS劫持与简单应对（一）🔗](posts/2021/04/blog-post-1/)
+* [DNS劫持与简单应对（一）基础篇🔗](posts/2021/04/blog-post-1/)
 * [校园网环境下Openwrt配置IPv6🔗](posts/2020/09/blog-post-3/)
 * [利用V2ray和闲置NAS，实现校园网IPV6免流🔗](posts/2020/09/blog-post-1/)
 * [校园网配置指北🔗](posts/2020/09/blog-post-2/)
