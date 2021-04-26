@@ -8,7 +8,8 @@ author_profile: true
         
 ## 实用工具系列
 
-* [法大Openwrt配置IPv6和v2ray免流🔗](posts/2020/09/blog-post-3/)
+* [DNS劫持与简单应对（一）🔗](posts/2020/04/blog-post-1/)
+* [校园网环境下Openwrt配置IPv6🔗](posts/2020/09/blog-post-3/)
 * [利用V2ray和闲置NAS，实现校园网IPV6免流🔗](posts/2020/09/blog-post-1/)
 * [校园网配置指北🔗](posts/2020/09/blog-post-2/)
 * [CUPL 每日疫情自动上报bot🔗](posts/2020/08/blog-post-2/) 
