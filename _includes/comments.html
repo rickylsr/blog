@@ -12,6 +12,9 @@
   {% when "google-plus" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section class="g-comments" data-href="{{ base_path }}{{ page.url }}" data-first_party_property="BLOGGER" data-view_type="FILTERED_POSTMOD">Loading Google+ Comments ...</section>
+  {% when "giscus" %}
+      <h4 class="page__comments-title">{{ comments_label }}</h4>
+      <section id="giscus-comments"></section>
   {% when "staticman" %}
     <section id="comments">
       {% if site.repository and site.staticman.branch %}
